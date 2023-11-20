@@ -15,7 +15,10 @@
 
  
  <br>
- 
+  ### Meus projetos:
+  <img src= https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
+  <img src= https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white/>
+  
   ### Minhas redes:
  
 <div> 
