@@ -3,8 +3,8 @@
  <div>
    <a href="https://github.com/danielassis07">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielassis07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielassis07&layout=compact&langs_count=6&theme=tokyonight"
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielassis07&theme=default&show_icons=true&https://github.com/anuraghazra/github-readme-stats"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielassis07&layout=compact&langs_count=6&theme=tokyonight"/>
+   [![card](https://github-readme-stats.vercel.app/api?username=danielassis07&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Estudando:
 <div style="display: flex;">
