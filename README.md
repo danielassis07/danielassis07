@@ -15,13 +15,22 @@
 
  
  <br>
+ <div> 
   ### Meus projetos:
   Cavaleiros do Zodiaco Recaps
-  <a href="https://www.instagram.com/cavaleirosdozodiacorecaps/" target="_blank"><img src= https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
+ <p>
   <a href="https://www.tiktok.com/@cavaleirosdozodiacorecap?lang=pt-BR" target="_blank"><img src= https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white/>
+  <a href="https://www.instagram.com/cavaleirosdozodiacorecaps/" target="_blank"><img src= https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
+</p>
+ <p>
+  X1 em Um Minuto:
+  <a href="https://www.tiktok.com/@x1emumminuto" target="_blank"><img src= https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white/> 
+  <a href="https://www.instagram.com/x1emumminuto/" target="_blank"><img src= https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
+ </p>
+  </div>
+
   
   ### Minhas redes:
- 
 <div> 
   <a href="https://www.linkedin.com/in/danielassis07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
  
