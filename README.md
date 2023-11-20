@@ -35,6 +35,8 @@
   ### Minhas redes:
 <div> 
   <a href="https://www.linkedin.com/in/danielassis07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
- 
-![image](https://64.media.tumblr.com/tumblr_mdhtxcB2SB1rnqolfo1_500.gif)
+
+  <p>
+<img src="https://64.media.tumblr.com/tumblr_mdhtxcB2SB1rnqolfo1_500.gif" width="800" height="800" alt="Descrição da Imagem">
+  </p>
 </div>
