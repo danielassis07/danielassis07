@@ -15,19 +15,21 @@
 
  
  <br>
- <div> 
-  ### Meus projetos:
-  Cavaleiros do Zodiaco Recaps
- <p>
-  <a href="https://www.tiktok.com/@cavaleirosdozodiacorecap?lang=pt-BR" target="_blank"><img src= https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white/>
-  <a href="https://www.instagram.com/cavaleirosdozodiacorecaps/" target="_blank"><img src= https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
-</p>
- <p>
-  X1 em Um Minuto:
-  <a href="https://www.tiktok.com/@x1emumminuto" target="_blank"><img src= https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white/> 
-  <a href="https://www.instagram.com/x1emumminuto/" target="_blank"><img src= https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
- </p>
-  </div>
+<div> 
+  <h3>Meus projetos:</h3>
+  <p>Cavaleiros do Zodiaco Recaps</p>
+  <p>
+    <a href="https://www.tiktok.com/@cavaleirosdozodiacorecap?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+    <a href="https://www.instagram.com/cavaleirosdozodiacorecaps/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  </p>
+
+  <h3>X1 em Um Minuto:</h3>
+  <p>
+    <a href="https://www.tiktok.com/@x1emumminuto" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+    <a href="https://www.instagram.com/x1emumminuto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  </p>
+</div>
+
 
   
   ### Minhas redes:
