@@ -36,6 +36,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/danielassis07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/danielassis07/danielassis07/blob/output/github-contribution-grid-snake.svg)
-
+![image](https://64.media.tumblr.com/tumblr_mdhtxcB2SB1rnqolfo1_500.gif)
 </div>
