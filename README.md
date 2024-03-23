@@ -22,10 +22,15 @@
     <a href="https://www.instagram.com/cavaleirosdozodiacorecaps/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
 
-  X1 em Um Minuto
+ <p>X1 em Um Minuto</p>
   <p>
     <a href="https://www.tiktok.com/@x1emumminuto" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
     <a href="https://www.instagram.com/x1emumminuto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  </p>
+  
+ <p>Assis07edits</p>
+  <p>
+   <a href="https://www.tiktok.com/@assis07edits" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   </p>
 </div>
   
