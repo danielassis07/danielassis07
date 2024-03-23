@@ -35,7 +35,9 @@
   ### Minhas redes:
 <div> 
   <a href="https://www.linkedin.com/in/danielassis07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="danielassis07" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/danielassis07?trk=profile-badge">Daniel Assis</a></div>
+ 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="danielassis07" data-version="v1">
+ <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/danielassis07?trk=profile-badge">Daniel Assis</a>
               
   <p>
 <img src="https://64.media.tumblr.com/tumblr_mdhtxcB2SB1rnqolfo1_500.gif" width="80" height="80" alt="Descrição da Imagem">
