@@ -1,4 +1,4 @@
-## Não repara a bagunça... 😁
+![image](https://github.com/danielassis07/danielassis07/assets/133272882/f659a420-e69b-4477-aae1-758ea3819715)## Não repara a bagunça... 😁
 
  <div>
    <a href="https://github.com/danielassis07">
@@ -13,7 +13,6 @@
   <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 
- 
  <br>
 <div> 
   <h3>Meus projetos:</h3>
@@ -29,11 +28,13 @@
     <a href="https://www.instagram.com/x1emumminuto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
 </div>
-
-
   
   ### Minhas redes:
   <a href="https://www.linkedin.com/in/danielassis07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
 
-              
+  <p>
+<img src="https://pa1.aminoapps.com/6633/e0558d51104727ada6691c652bc9853e79fff4c1_hq.gif" width="800" height="800" alt="Descrição da Imagem">
+<img src="https://pa1.aminoapps.com/6633/e0558d51104727ada6691c652bc9853e79fff4c1_hq.gif" width="80" height="80" alt="Descrição da Imagem">
+  </p>
+</div>
               
