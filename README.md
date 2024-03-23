@@ -1,4 +1,4 @@
-![image](https://github.com/danielassis07/danielassis07/assets/133272882/f659a420-e69b-4477-aae1-758ea3819715)## Não repara a bagunça... 😁
+## Não repara a bagunça... 😁
 
  <div>
    <a href="https://github.com/danielassis07">
@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/danielassis07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
 
   <p>
-<img src="https://pa1.aminoapps.com/6633/e0558d51104727ada6691c652bc9853e79fff4c1_hq.gif" width="800" height="80" alt="Descrição da Imagem">
+<img src="https://pa1.aminoapps.com/6633/e0558d51104727ada6691c652bc9853e79fff4c1_hq.gif" width="800" height="200" alt="Descrição da Imagem">
   </p>
 </div>
               
